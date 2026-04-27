@@ -63,5 +63,5 @@ Post in the class Discord. If you get stuck on git or the PR flow, say so early 
 ## What's coming next (so you can plan ahead)
 
 - **Week 2 (Apr 20–26) — "Capture the reality":** Artifact capture day (screenshot, clip, setup photo, Discord log excerpt) + annotate the shared journey map. **Heads up:** some of the best captures need more than one person in the room — e.g., a video of someone's timer project reacting to a real student, or the room shifting into lecture mode when people sit down. Start coordinating in the class Discord early in the week so you can trade favors and be bodies in each other's frames.
-- **Week 3 (Apr 27–May 3) — "Explain it to someone else":** "A moment in the room" vignette + peer interview in pairs + hand-drawn system diagram.
+- **Week 3 (Apr 27–May 3) — "Explain it to someone else":** "A moment in the room" vignette + interview with someone outside the class about your project + hand-drawn system diagram.
 - **Week 4 (starting May 4) — "Synthesis & showcase":** The white paper is assembled, everyone reviews their own sections, we prep the live showcase.

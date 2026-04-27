@@ -14,7 +14,7 @@ docs/whitepaper/
 ├── vignettes/             <- "a moment in the room" paragraphs
 ├── journey-map-annotated.png  <- shared FigJam export
 ├── artifacts/             <- screenshots, clips, photos, log excerpts
-├── interviews/            <- peer interview writeups
+├── interviews/            <- outsider interview writeups (you interview someone outside the class)
 └── diagrams/              <- hand-drawn diagram photos
 ```
 
@@ -37,7 +37,7 @@ One bundled assignment per week. Each week has a theme and a small set of delive
 |---|---|---|---|---|
 | **Week 1** | **Tell your story** | Project retrospective (`retros/`) + one glossary entry (`glossary.md`) | **1–3 hrs** | **Sun Apr 19** |
 | **Week 2** | **Capture the reality** | Artifact capture — screenshot, short clip, setup photo, Discord log excerpt (`artifacts/`) + annotate the shared journey map (`journey-map-annotated.png`) | **1–3 hrs** | **Sun Apr 26** |
-| **Week 3** | **Explain it to someone else** | "A moment in the room" vignette (`vignettes/`) + peer interview in pairs (`interviews/`) + hand-drawn system diagram (`diagrams/`) | **1.5–4.5 hrs** | **Sun May 3** |
+| **Week 3** | **Explain it to someone else** | "A moment in the room" vignette (`vignettes/`) + outsider interview about your project (`interviews/`) + hand-drawn system diagram (`diagrams/`) | **1.5–4.5 hrs** | **Sun May 3** |
 | **Week 4** | **Synthesis & showcase** | The white paper is assembled, everyone reviews their own sections, we prep the live showcase | — | Starts **Mon May 4** |
 
 > **About the time ranges:** the low end is "you know exactly what you want to say and knock it out." The high end (roughly triple) is "you want to think hard, iterate, and hand in something you're proud of." Both are valid — pick your pace.
