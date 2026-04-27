@@ -126,7 +126,7 @@ VALUES
 
     ('echodesk',
      'EchoDesk',
-     'TBD',
+     'Kathy Choi',
      'Conversational machine: students type a message in a mobile app, a Raspberry Pi speaker speaks it aloud. Shared question board for the professor.',
      ARRAY['room_mode_change']),
 
@@ -136,21 +136,21 @@ VALUES
      'Desk object that listens when the student speaks English and provides gentle grammar suggestions on a small screen.',
      ARRAY['person_change']),
 
-    ('calmball',
-     'CalmBall',
-     'TBD',
-     'Stress-regulation squeeze ball that triggers calming sounds through a Pi speaker when squeezed.',
+    ('tony',
+     'Tony',
+     'Ramon Naula',
+     'Classroom agent that responds to student moods with object detection and health monitoring.',
      ARRAY['room_mode_change']),
 
     ('gesture-timer',
      'Gesture Classroom Timer',
-     'TBD',
+     'Phil',
      'Browser-based countdown timer controlled by hand gestures via p5.js and ml5.js Handpose.',
      ARRAY['room_mode_change']),
 
     ('smart-stage',
      'Smart Stage',
-     'TBD',
+     'Gordon',
      'Ambient intelligence: auto-lighting, auto-recording, live captioning, and AI lecture summaries when a speaker enters the stage area.',
      ARRAY['person_change', 'probe_classification', 'room_mode_change']),
 
@@ -198,7 +198,7 @@ VALUES
 
     ('imprint',
      'Imprint',
-     'TBD',
+     'Darren Chia',
      'Camera reads handwriting off any surface (desk, napkin, hand) and saves it directly to notes. Can project notes back onto surfaces.',
      ARRAY['whiteboard_change']),
 
