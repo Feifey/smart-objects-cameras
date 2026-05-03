@@ -1,28 +1,24 @@
-# Vignette: <a short title that captures the moment>
+# Vignette: <The moment Focus Beam became ambiguous>
 
 **Student:** Feifey Wang
 **Project:** Focus Beam
 **Camera used:** Orbit
-**When it happened:** <date + rough time, e.g. "Thu Apr 30, ~3pm">
-**Who was in the room:** <first names are fine>
+**When it happened:** <Sun May + ~10AM>
+**Who was in the room:** <Feifey, Jason>
 
 ---
 
 ## The moment
 
-<!-- One paragraph — roughly 5–10 sentences. Tell it like you're telling a friend the story over dinner.
-
-Set the scene first: who was where, what they were doing, what the room felt like. Then the moment itself — what did the camera or your project do, and how did people actually react? Did anyone laugh, ignore it, get confused, get it instantly? Did the timing land or feel off?
-
-Try to stay in present tense. No code, no implementation details — this is a scene, not a bug report. -->
-
+We’re sitting in a small classroom, and I place my laptop on the desk in front of us with a slide open. 
+Instead of sitting, I stand slightly to the side and start pointing at different parts of the screen with my hand. As I move, the slide dims everywhere except the area I’m pointing at, which stays bright. Jason was watching it but doesn’t say anything at first. 
+Then I move my hand again, but a bit faster this time, and the highlight follows, slightly lagging. After a few seconds, he tilts his head and asks, if I was controlling that.
+I kept pointing around and the highlight shifts again, then he realisef that the light was following me, saying that it was kind of nice to keep him focus on the part tha tis not dimmed, which is highlighted.
 
 
 ## Why this moment mattered
 
-<!-- Two or three sentences. What did this moment reveal that a screenshot can't? Was it about timing, body language, surprise, an edge case, a misunderstanding? "The system worked" is not enough — what specifically did this expose about how the room and the software relate to each other?
-
-This is the section that turns a story into a finding. Don't skip it. -->
+This moment showed that understanding the system isn’t immediate, it emerges through observation and ambiguity. The brief uncertainty about whether the system was manual or automated highlighted a gap in how legible the interaction is, while also showing that the core behaviour is intuitive enough for users to figure out quickly. It also demonstrated that the value of the system lies not just in visibility, but in reducing the effort of searching for where to look.
 
 
 
@@ -39,10 +35,10 @@ Caption: <!-- one sentence describing what we're looking at -->
 ---
 
 *Submission checklist:*
-- [ ] File named `feifey-focus-beam-vignette.md` and placed in `docs/whitepaper/vignettes/`
-- [ ] Names a real moment, not a hypothetical or composite of several moments
-- [ ] Sets the scene (time, place, who was there) before the moment itself
-- [ ] "Why this mattered" goes beyond "it worked"
-- [ ] No code snippets — this is a story, not a tutorial
-- [ ] Your words, not AI-generated
-- [ ] Opened as a pull request, not pushed to `main`
+- [V] File named `feifey-focus-beam-vignette.md` and placed in `docs/whitepaper/vignettes/`
+- [V] Names a real moment, not a hypothetical or composite of several moments
+- [V] Sets the scene (time, place, who was there) before the moment itself
+- [V] "Why this mattered" goes beyond "it worked"
+- [V] No code snippets — this is a story, not a tutorial
+- [V] Your words, not AI-generated
+- [V] Opened as a pull request, not pushed to `main`
